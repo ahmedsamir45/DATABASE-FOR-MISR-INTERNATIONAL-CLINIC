@@ -233,11 +233,4 @@ INNER JOIN employees e ON e.ID = p.Doctor_ID;
 
 ---
 
-## 🔐 Author
-Ahmed Samir  
-GitHub: [@ahmedsamir45](https://github.com/ahmedsamir45)  
-Project: DATABASE FOR MISR INTERNATIONAL CLINIC
 
-```
-
-Let me know if you’d like to include images of the ERD or SQL file exports!
